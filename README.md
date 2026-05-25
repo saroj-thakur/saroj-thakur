@@ -1,14 +1,14 @@
 #  Hi 👋, I'm Saroj Thakur
-**A passionate software developer||AI & Machine Learning ||UI/UX designer ||VideoEditor**
+**A passionate Full Stack Developer | Python Enthusiast | Web Development Learner**
 
-Email Me 👉 ✉️ **newerasaroj.2020@gmail.com** For Collaboration/Project or Anything Else. 😊
+Email Me 👉 ✉️ **newerasaroj.2020@gmail.com For Collaboration/Project or Anything Else.**
 
-- 🔭 **I’m currently Studying on:**  Asia Pacific University of Technology & Innovation(Techspire College)
-- 🌱 **I’m currently learning:** python,AI&Machine Learning
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:newerasaroj.2020@gmail.com
-- 😄 **Pronouns:** Saroj 
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently Studying on:**Asia Pacific University of Technology & Innovation(Techspire College)**
+- 🌱 **I’m currently learning:**Frontend Development, Python Backend & Web Technologies**
+- 💬 **Ask me about:**Collaboration, Tech Support**
+- 📫 **How to reach me:newerasaroj.2020@gmail.com**
+- 😄 **Pronouns:**Saroj**
+- ⚡ **Fun fact:**I Love Tech and Tech Love Me**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=saroj-thakur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
